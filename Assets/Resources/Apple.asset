@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8565bb92dd38984aacbc561799fcb07, type: 3}
+  m_Name: Apple
+  m_EditorClassIdentifier: 
+  itemPrefab: {fileID: 5071884297768870191, guid: a8e051782a31193409e1ade5a5107356, type: 3}
+  itemImage: {fileID: 7165465499871556163, guid: 09abc8e3f5567fe49a07d9c934cea82c, type: 3}
+  itemType: 0
+  healingPower: 10
+  weapon: {fileID: 0}
